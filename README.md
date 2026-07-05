@@ -1,1 +1,14 @@
-This project simulates a basic ATM (Automated Teller Machine) system. It allows users to perform essential banking operations such as checking balance, depositing money, withdrawing money, and printing receipts. The system also includes a secure PIN based login system to prevent unauthorized access. 
+# C Language Projects
+
+A collection of beginner C programming projects:
+
+## 1. Mini ATM System
+PIN-based ATM simulator with balance inquiry, 
+deposits, withdrawals, and receipt printing.
+
+## 2. Tic-Tac-Toe Game  
+Two-player terminal game with win/draw detection,
+input validation, and modular function structure.
+
+## 3. Mini Calculator
+Basic arithmetic calculator with menu-driven interface.
